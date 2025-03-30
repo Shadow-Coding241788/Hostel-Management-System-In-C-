@@ -1,4 +1,4 @@
-# Hostel-Management-System-In-C-
+# Hostel-Management-System-In-C++
 This is a hostel management system using the language of C++.
 The code you've shared is a Hostel Management System project written in C++. The project is designed to manage the information of people residing in a hostel. It allows the user to perform various operations such as adding a new person, deleting an existing person, searching for a person, displaying all persons, finding free rooms, and displaying the total number of persons currently in the hostel.
 
